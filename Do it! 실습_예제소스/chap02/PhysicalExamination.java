@@ -13,6 +13,7 @@ class PhysicalExamination {
 
         //--- 생성자(constructor) ---//
         PhyscData(String name, int height, double vision) {
+            //생성자 사용한 예제! 
             this.name     = name;
             this.height = height;
             this.vision = vision;
